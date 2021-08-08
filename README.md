@@ -4,4 +4,5 @@
 
 ## 구현 이미지
 메인 화면
-!<https://github.com/sadie100/DaangnMarket/blob/main/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png>
+
+![이미지](https://github.com/sadie100/DaangnMarket/blob/main/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png)
